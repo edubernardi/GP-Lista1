@@ -1,11 +1,9 @@
-Respostas para as questıes da lista.
-1)GLSL È a linguagem usada para a configuraÁ„o dos shaders.Os shaders necess·rios s„o o Vertex Shader e o Fragment Shader.
+Respostas para as quest√µes da lista.
+1)GLSL √© a linguagem usada para a configura√ß√£o dos shaders.Os shaders necess√°rios s√£o o Vertex Shader e o Fragment Shader.
 
-2)Primitiva gr·fica È a forma primordial que È usada para formar figuras mais complexas. O tri‚ngulo por exemplo, È a forma mais simples de ser desenhada em 3d, por possuir apenas 3 vÈrtices.
-  As vÈrtices s„o armazenadas em um array de float.
+2)Primitiva gr√°fica √© a forma primordial que √© usada para formar figuras mais complexas. O tri√¢ngulo por exemplo, √© a forma mais simples de ser desenhada em 3d, por possuir apenas 3 v√©rtices.
+  As v√©rtices s√£o armazenadas em um array de float.
 
-3)Os Vertex Buffer Objects recebem os dados de vÈrtices e enviam seus dados para a GPU.
-  Vertex Array Object tem a funÁ„o de descrevem os dados do vÈrtice.
-  O Element Object Buffer utiliza Ìndices para evitar a formaÁ„o de vÈrtices redundantes.
-
-4)
+3)Os Vertex Buffer Objects recebem os dados de v√©rtices e enviam seus dados para a GPU.
+  Vertex Array Object tem a fun√ß√£o de descrevem os dados do v√©rtice.
+  O Element Object Buffer utiliza √≠ndices para evitar a forma√ß√£o de v√©rtices redundantes.
