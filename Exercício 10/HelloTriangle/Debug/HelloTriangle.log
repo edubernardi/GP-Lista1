@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\Shader.h(43,40): warning C4101: 'e': unreferenced local variable
+C:\Users\eduar\source\repos\Lista1\Exercício 10\HelloTriangle\Source.cpp(171,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  HelloTriangle.vcxproj -> C:\Users\eduar\source\repos\Lista1\Exercício 10\Debug\HelloTriangle.exe

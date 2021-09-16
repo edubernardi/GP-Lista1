@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\eduar\source\repos\Lista1\Exercício 9\HelloTriangle\Source.cpp(274,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  HelloTriangle.vcxproj -> C:\Users\eduar\source\repos\Lista1\Exercício 9\Debug\HelloTriangle.exe
